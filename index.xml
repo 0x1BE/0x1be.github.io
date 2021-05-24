@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digital Forensics</title>
+    <link>https://talalcyber.github.io/</link>
+    <description>Recent content on Digital Forensics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 24 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://talalcyber.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>command line and windows forensics. (doc)</title>
+      <link>https://talalcyber.github.io/posts/cmd-and-win/</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://talalcyber.github.io/posts/cmd-and-win/</guid>
+      <description>There are many reasons why people consider using cmd. In fact, the Reddit community as well as many other users of social media and forums are among those who prefer using it over other similar tools. It is because it gives you a quick answer to your questions which can help you in reaching your goal much faster. This document will show you the cmd commands you can use it effectively to gather information on windows os</description>
+    </item>
+    
+  </channel>
+</rss>
